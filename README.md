@@ -3,13 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200w.webp?cid=ecf05e47scfp625a5nbp5lrwltkl329h5g43kyzh09zvtjh0&ep=v1_gifs_search&rid=200w.webp&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaybhatt25&label=Profile%20views&color=0e75b6&style=flat" alt="jaybhatt25" /> </p>
 
-- 🔭 I’m currently working on [Social-Media-Rest-Api](https://github.com/JayBhatt25/Spring-socialmedia-rest-api)
-
 - 🌱 I’m currently learning **Next.js and GraphQL**
 
 - 💬 Ask me about **Spring, MERN and Android**
 
-- 📫 How to reach me **jaybhatt2598@gmail.com**
+- 📫 How to reach me **jaybhatt2502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
